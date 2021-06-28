@@ -95,6 +95,12 @@
       "name": "Bloomberg Global Financial News",
       "ytdl-format": "best",
       "volume": 1
+    },
+    {
+      "url": "https://cdn-dl01p.video.friday.tw/live/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "ytdl-format": "best",
+      "volume": 1
     }
   ]
 }
