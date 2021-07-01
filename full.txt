@@ -101,6 +101,18 @@
       "name": "非凡新聞",
       "ytdl-format": "best",
       "volume": 1
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
+      "name": "三立 iNEWS 新聞",
+      "ytdl-format": "best",
+      "volume": 1
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wb1jNw99M5s",
+      "name": "Peppa Pig Official Channel",
+      "ytdl-format": "best",
+      "volume": 1
     }
   ]
 }

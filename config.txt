@@ -77,6 +77,12 @@
       "name": "寰宇新聞",
       "ytdl-format": "best",
       "volume": 1
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
+      "name": "三立 iNEWS 新聞",
+      "ytdl-format": "best",
+      "volume": 1
     }
   ]
 }
