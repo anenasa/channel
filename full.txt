@@ -37,7 +37,7 @@
       "volume": 1
     },
     {
-      "url": "https://www.youtube.com/watch?v=ED4QXd5xAco",
+      "url": "https://www.youtube.com/watch?v=JAzRXylm3M0",
       "name": "公共電視",
       "ytdl-format": "best",
       "volume": 1
@@ -67,13 +67,13 @@
       "volume": 1
     },
     {
-      "url": "https://www.youtube.com/watch?v=-2WdDB2O4G4",
+      "url": "https://www.youtube.com/watch?v=L6g1CrxcSOk",
       "name": "中天亞洲",
       "ytdl-format": "best",
       "volume": 1
     },
     {
-      "url": "https://www.youtube.com/watch?v=lsfQqAymuGM",
+      "url": "https://www.youtube.com/watch?v=QlTuJ1X8JCw",
       "name": "寰宇新聞",
       "ytdl-format": "best",
       "volume": 1
