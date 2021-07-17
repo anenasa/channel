@@ -73,7 +73,7 @@
       "volume": 1
     },
     {
-      "url": "https://www.youtube.com/watch?v=QlTuJ1X8JCw",
+      "url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
       "name": "寰宇新聞",
       "ytdl-format": "best",
       "volume": 1
