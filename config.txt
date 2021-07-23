@@ -49,7 +49,7 @@
       "volume": 1
     },
     {
-      "url": "https://www.youtube.com/watch?v=IMNMyJM7HRo",
+      "url": "https://www.youtube.com/watch?v=yUTy1U1wTwE",
       "name": "華視新聞",
       "ytdl-format": "best",
       "volume": 1
