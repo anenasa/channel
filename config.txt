@@ -2,87 +2,59 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=KDRwIRKP5tY",
-      "name": "TVBS新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "TVBS新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "台視新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=pJ0VgJloR9E",
-      "name": "三立新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "三立新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=XxJKnDLYZz4",
-      "name": "民視新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "民視新聞"
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "中視新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=lu_BJKxqGnk",
-      "name": "中天新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "中天新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=JAzRXylm3M0",
-      "name": "公共電視",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "公共電視"
     },
     {
       "url": "https://www.youtube.com/c/newsebc/live",
-      "name": "東森新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "東森新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=yUTy1U1wTwE",
-      "name": "華視新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "華視新聞"
     },
     {
       "url": "https://www.youtube.com/user/57ETFN/live",
-      "name": "東森財經",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "東森財經"
     },
     {
       "url": "https://www.youtube.com/watch?v=EmuMuVyAjh4",
-      "name": "TVBS56",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "TVBS56"
     },
     {
       "url": "https://www.youtube.com/watch?v=L6g1CrxcSOk",
-      "name": "中天亞洲",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "中天亞洲"
     },
     {
       "url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
-      "name": "寰宇新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "寰宇新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
-      "name": "三立 iNEWS 新聞",
-      "ytdl-format": "best",
-      "volume": 1
+      "name": "三立 iNEWS 新聞"
     }
   ]
 }
