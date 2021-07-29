@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=KDRwIRKP5tY",
+      "url": "https://www.youtube.com/watch?v=V0WxUakDV7M",
       "name": "TVBS新聞"
     },
     {
