@@ -41,7 +41,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EmuMuVyAjh4",
+      "url": "https://www.youtube.com/watch?v=hP6_jfCFxyQ",
       "name": "TVBS56"
     },
     {
