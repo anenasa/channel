@@ -13,7 +13,7 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=XxJKnDLYZz4",
+      "url": "https://www.youtube.com/watch?v=XGEmg3vhrzU",
       "name": "民視新聞"
     },
     {
