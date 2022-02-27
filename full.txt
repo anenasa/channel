@@ -45,7 +45,7 @@
       "name": "TVBS56"
     },
     {
-      "url": "https://www.youtube.com/watch?v=L6g1CrxcSOk",
+      "url": "https://www.youtube.com/watch?v=6CBxA5UCNd4",
       "name": "中天亞洲"
     },
     {
