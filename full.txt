@@ -13,7 +13,7 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=XGEmg3vhrzU",
+      "url": "https://www.ftvnews.com.tw/ftvn_yt",
       "name": "民視新聞"
     },
     {
@@ -25,7 +25,7 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=JAzRXylm3M0",
+      "url": "https://www.youtube.com/watch?v=4Uc00FPs27M",
       "name": "公共電視"
     },
     {
@@ -45,7 +45,7 @@
       "name": "TVBS56"
     },
     {
-      "url": "https://www.youtube.com/watch?v=6CBxA5UCNd4",
+      "url": "https://www.youtube.com/watch?v=L4a9mAc8634",
       "name": "中天亞洲"
     },
     {
