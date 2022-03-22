@@ -33,7 +33,7 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=yUTy1U1wTwE",
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
       "name": "華視新聞"
     },
     {
