@@ -29,7 +29,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=lg1GeR-0uTc",
+      "url": "https://www.youtube.com/watch?v=z1JdnGD7JIE",
       "name": "東森新聞"
     },
     {
