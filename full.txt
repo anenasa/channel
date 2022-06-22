@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=pZC2WtyUtr4",
+      "url": "https://www.youtube.com/watch?v=0KGvqYWW5QY",
       "name": "TVBS新聞"
     },
     {
@@ -29,7 +29,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=z1JdnGD7JIE",
+      "url": "https://www.youtube.com/watch?v=yy9573IYfG8",
       "name": "東森新聞"
     },
     {
