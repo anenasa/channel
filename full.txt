@@ -41,10 +41,6 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=hP6_jfCFxyQ",
-      "name": "TVBS56"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=L4a9mAc8634",
       "name": "中天亞洲"
     },
