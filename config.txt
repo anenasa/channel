@@ -9,10 +9,6 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EB4g7wecgTI",
-      "name": "三立新聞"
-    },
-    {
       "url": "https://www.ftvnews.com.tw/ftvn_yt",
       "name": "民視新聞"
     },
