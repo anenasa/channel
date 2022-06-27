@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=0KGvqYWW5QY",
+      "url": "https://news.tvbs.com.tw/live/news4live/18",
       "name": "TVBS新聞"
     },
     {
