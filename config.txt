@@ -9,7 +9,7 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.ftvnews.com.tw/ftvn_yt",
+      "url": "https://www.youtube.com/watch?v=CTy54CH9xDM",
       "name": "民視新聞"
     },
     {
