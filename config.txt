@@ -9,7 +9,7 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=CTy54CH9xDM",
+      "url": "https://www.youtube.com/watch?v=P8DRJChuQQQ",
       "name": "民視新聞"
     },
     {
