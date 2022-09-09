@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "https://news.tvbs.com.tw/live/news4live/18",
+      "url": "https://today.line.me/tw/v2/article/jggMBa",
       "name": "TVBS新聞"
     },
     {
