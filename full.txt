@@ -37,8 +37,8 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=L4a9mAc8634",
-      "name": "中天亞洲"
+      "url": "https://www.youtube.com/watch?v=oPx1u9WQrWg",
+      "name": "中天亞洲台"
     },
     {
       "url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
@@ -59,14 +59,6 @@
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
       "name": "三立 iNEWS 新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wJ_P8XvobIQ",
-      "name": "Peppa Pig Official Channel"
-    },
-    {
-      "url": "http://stream.nexttv.com.tw/n001/playlist.m3u8",
-      "name": "壹新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
