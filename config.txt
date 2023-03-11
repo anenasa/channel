@@ -9,7 +9,7 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.ftvnews.com.tw/live/live-video/2/11",
+      "url": "https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13",
       "name": "民視新聞"
     },
     {
