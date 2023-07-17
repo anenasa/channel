@@ -33,7 +33,7 @@
       "name": "華視新聞"
     },
     {
-      "url": "https://www.youtube.com/user/57ETFN/live",
+      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
       "name": "東森財經"
     },
     {
@@ -41,7 +41,7 @@
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
+      "url": "https://www.youtube.com/watch?v=V8ue1aoEOEQ",
       "name": "寰宇新聞"
     },
     {
@@ -80,6 +80,10 @@
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
       "name": "三立新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UcTIv4ZaE5Y",
+      "name": "寰宇新聞台灣台"
     }
   ]
 }
