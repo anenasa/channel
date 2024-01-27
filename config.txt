@@ -53,8 +53,8 @@
       "name": "大愛二臺"
     },
     {
-      "url": "https://www.youtube.com/watch?v=dp8PhLsUcFE",
-      "name": "Bloomberg Global Financial News"
+      "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
+      "name": "Bloomberg Business News"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
@@ -70,7 +70,7 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=S5WOGu2HSes",
+      "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
       "name": "東森新聞 (YouTube)"
     },
     {
