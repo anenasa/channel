@@ -9,7 +9,7 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13",
+      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
       "name": "民視新聞"
     },
     {
