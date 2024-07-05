@@ -9,7 +9,7 @@
       "name": "台視新聞"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31",
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
       "name": "民視新聞"
     },
     {
@@ -25,7 +25,7 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=LuQ4S-i5zoE",
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
       "name": "東森新聞"
     },
     {
@@ -37,7 +37,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=s2waUruqze4",
+      "url": "https://www.youtube.com/watch?v=MJFaJER4Qxo",
       "name": "中天亞洲台"
     },
     {
