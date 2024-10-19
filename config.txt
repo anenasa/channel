@@ -37,7 +37,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=MJFaJER4Qxo",
+      "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
       "name": "中天亞洲台"
     },
     {
@@ -53,7 +53,7 @@
       "name": "大愛二臺"
     },
     {
-      "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
+      "url": "https://www.youtube.com/watch?v=iEpJwprxDdk",
       "name": "Bloomberg Business News"
     },
     {
@@ -70,7 +70,7 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
+      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
       "name": "三立新聞"
     },
     {
