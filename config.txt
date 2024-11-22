@@ -80,6 +80,10 @@
     {
       "url": "https://today.line.me/tw/v2/article/jggMBa",
       "name": "TVBS新聞 (Line)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
     }
   ]
 }
